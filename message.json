@@ -1,3 +1,225 @@
 {
-  "text": "**GitHub Trending Repositories**\n\n1. [dyad-sh/dyad](https://github.com/dyad-sh/dyad) ⭐ 4,070\n> Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!\n\n2. [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) ⭐ 20,851\n> The easiest way to run WireGuard VPN + Web-based Admin UI.\n\n3. [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) ⭐ 3,230\n> Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.\n\n4. [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 192,629\n> 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings\n\n5. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) ⭐ 30,313\n> Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.\n\n6. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 41,778\n> The Free Software Media System - Server Backend & API\n\n7. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 61,128\n> Implement a ChatGPT-like LLM in PyTorch from scratch, step by step\n\n8. [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) ⭐ 46,157\n> Truly independent web browser\n\n9. [sst/opencode](https://github.com/sst/opencode) ⭐ 16,412\n> AI coding agent, built for the terminal.\n\n10. [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) ⭐ 2,548\n> Recommend new arxiv papers of your interest daily according to your Zotero libarary."
+  "text": "🔥 **GitHub Trending Repositories**",
+  "attachments": [
+    {
+      "color": "#24292e",
+      "title": "1. dyad-sh/dyad",
+      "title_link": "https://github.com/dyad-sh/dyad",
+      "text": "Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!",
+      "thumb_url": "https://github.com/dyad-sh.png?size=40",
+      "image_url": "https://opengraph.githubassets.com/1/dyad-sh/dyad",
+      "fields": [
+        {
+          "title": "Stars",
+          "value": "⭐ 4,129",
+          "short": true
+        },
+        {
+          "title": "Language",
+          "value": "🔸 TypeScript",
+          "short": true
+        }
+      ],
+      "footer": "GitHub • dyad-sh",
+      "footer_icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    },
+    {
+      "color": "#24292e",
+      "title": "2. wg-easy/wg-easy",
+      "title_link": "https://github.com/wg-easy/wg-easy",
+      "text": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+      "thumb_url": "https://github.com/wg-easy.png?size=40",
+      "image_url": "https://opengraph.githubassets.com/1/wg-easy/wg-easy",
+      "fields": [
+        {
+          "title": "Stars",
+          "value": "⭐ 20,871",
+          "short": true
+        },
+        {
+          "title": "Language",
+          "value": "🔸 TypeScript",
+          "short": true
+        }
+      ],
+      "footer": "GitHub • wg-easy",
+      "footer_icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    },
+    {
+      "color": "#24292e",
+      "title": "3. eclipse-sumo/sumo",
+      "title_link": "https://github.com/eclipse-sumo/sumo",
+      "text": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.",
+      "thumb_url": "https://github.com/eclipse-sumo.png?size=40",
+      "image_url": "https://opengraph.githubassets.com/1/eclipse-sumo/sumo",
+      "fields": [
+        {
+          "title": "Stars",
+          "value": "⭐ 3,234",
+          "short": true
+        },
+        {
+          "title": "Language",
+          "value": "🔸 C++",
+          "short": true
+        }
+      ],
+      "footer": "GitHub • eclipse-sumo",
+      "footer_icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    },
+    {
+      "color": "#24292e",
+      "title": "4. trekhleb/javascript-algorithms",
+      "title_link": "https://github.com/trekhleb/javascript-algorithms",
+      "text": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "thumb_url": "https://github.com/trekhleb.png?size=40",
+      "image_url": "https://opengraph.githubassets.com/1/trekhleb/javascript-algorithms",
+      "fields": [
+        {
+          "title": "Stars",
+          "value": "⭐ 192,634",
+          "short": true
+        },
+        {
+          "title": "Language",
+          "value": "🔸 JavaScript",
+          "short": true
+        }
+      ],
+      "footer": "GitHub • trekhleb",
+      "footer_icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    },
+    {
+      "color": "#24292e",
+      "title": "5. XTLS/Xray-core",
+      "title_link": "https://github.com/XTLS/Xray-core",
+      "text": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "thumb_url": "https://github.com/XTLS.png?size=40",
+      "image_url": "https://opengraph.githubassets.com/1/XTLS/Xray-core",
+      "fields": [
+        {
+          "title": "Stars",
+          "value": "⭐ 30,315",
+          "short": true
+        },
+        {
+          "title": "Language",
+          "value": "🔸 Go",
+          "short": true
+        }
+      ],
+      "footer": "GitHub • XTLS",
+      "footer_icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    },
+    {
+      "color": "#24292e",
+      "title": "6. jellyfin/jellyfin",
+      "title_link": "https://github.com/jellyfin/jellyfin",
+      "text": "The Free Software Media System - Server Backend & API",
+      "thumb_url": "https://github.com/jellyfin.png?size=40",
+      "image_url": "https://opengraph.githubassets.com/1/jellyfin/jellyfin",
+      "fields": [
+        {
+          "title": "Stars",
+          "value": "⭐ 41,785",
+          "short": true
+        },
+        {
+          "title": "Language",
+          "value": "🔸 C#",
+          "short": true
+        }
+      ],
+      "footer": "GitHub • jellyfin",
+      "footer_icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    },
+    {
+      "color": "#24292e",
+      "title": "7. rasbt/LLMs-from-scratch",
+      "title_link": "https://github.com/rasbt/LLMs-from-scratch",
+      "text": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "thumb_url": "https://github.com/rasbt.png?size=40",
+      "image_url": "https://opengraph.githubassets.com/1/rasbt/LLMs-from-scratch",
+      "fields": [
+        {
+          "title": "Stars",
+          "value": "⭐ 61,147",
+          "short": true
+        },
+        {
+          "title": "Language",
+          "value": "🔸 Jupyter Notebook",
+          "short": true
+        }
+      ],
+      "footer": "GitHub • rasbt",
+      "footer_icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    },
+    {
+      "color": "#24292e",
+      "title": "8. LadybirdBrowser/ladybird",
+      "title_link": "https://github.com/LadybirdBrowser/ladybird",
+      "text": "Truly independent web browser",
+      "thumb_url": "https://github.com/LadybirdBrowser.png?size=40",
+      "image_url": "https://opengraph.githubassets.com/1/LadybirdBrowser/ladybird",
+      "fields": [
+        {
+          "title": "Stars",
+          "value": "⭐ 46,167",
+          "short": true
+        },
+        {
+          "title": "Language",
+          "value": "🔸 C++",
+          "short": true
+        }
+      ],
+      "footer": "GitHub • LadybirdBrowser",
+      "footer_icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    },
+    {
+      "color": "#24292e",
+      "title": "9. sst/opencode",
+      "title_link": "https://github.com/sst/opencode",
+      "text": "AI coding agent, built for the terminal.",
+      "thumb_url": "https://github.com/sst.png?size=40",
+      "image_url": "https://opengraph.githubassets.com/1/sst/opencode",
+      "fields": [
+        {
+          "title": "Stars",
+          "value": "⭐ 16,428",
+          "short": true
+        },
+        {
+          "title": "Language",
+          "value": "🔸 Go",
+          "short": true
+        }
+      ],
+      "footer": "GitHub • sst",
+      "footer_icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    },
+    {
+      "color": "#24292e",
+      "title": "10. TideDra/zotero-arxiv-daily",
+      "title_link": "https://github.com/TideDra/zotero-arxiv-daily",
+      "text": "Recommend new arxiv papers of your interest daily according to your Zotero libarary.",
+      "thumb_url": "https://github.com/TideDra.png?size=40",
+      "image_url": "https://opengraph.githubassets.com/1/TideDra/zotero-arxiv-daily",
+      "fields": [
+        {
+          "title": "Stars",
+          "value": "⭐ 2,553",
+          "short": true
+        },
+        {
+          "title": "Language",
+          "value": "🔸 Python",
+          "short": true
+        }
+      ],
+      "footer": "GitHub • TideDra",
+      "footer_icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    }
+  ]
 }
