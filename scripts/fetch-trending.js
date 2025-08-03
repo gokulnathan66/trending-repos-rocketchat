@@ -86,7 +86,6 @@ async function fetchTrendingRepos() {
         title_link: repo.url,
         text: contextualDescription,
         thumb_url: `https://github.com/${repo.owner}.png?size=40`,
-        image_url: `https://opengraph.githubassets.com/1/${repo.name}`,
         fields: [
           {
             title: "Stars",
