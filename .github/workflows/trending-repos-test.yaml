@@ -1,4 +1,4 @@
-name: Post GitHub Trending to Rocket.Chat
+name: Post GitHub Trending to Rocket.Chat -s
 
 on:
   push:
