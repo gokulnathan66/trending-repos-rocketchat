@@ -1,0 +1,28 @@
+name: Post GitHub Trending to Rocket.Chat
+
+on:
+  schedule:
+    - cron: "30 9 * * *"  # Every day at 09:30 AM UTC (adjust timezone if needed)
+
+jobs:
+  post-trending:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Fetch trending repos and prepare message
+        run: |
+          npm install axios cheerio
+          node scripts/fetch-trending.js  # Your script to scrape trending repos, create JSON message
+
+      - name: Send message to Rocket.Chat
+        env:
+          ROCKETCHAT_WEBHOOK: ${{ secrets.ROCKETCHAT_WEBHOOK }}
+        run: |
+          curl -X POST -H "Content-Type: application/json" -d @message.json $ROCKETCHAT_WEBHOOK
